@@ -1,0 +1,133 @@
+{
+  "personal": {
+    "name": "Amrit Tyagi",
+    "title": "Software Developer",
+    "tagline": "Building scalable applications and innovative IoT solutions.",
+    "phone": "+91 6200381033",
+    "email": "amrittyagi52@gmail.com",
+    "location": "Mahnar, Bihar",
+    "linkedin": "https://www.linkedin.com/in/amrit-tyagi-1b26a3291",
+    "bio": "Innovative Computer Science Engineering student specializing in IoT with hands-on experience in real-world applications. Proficient in Python, OOP, and MySQL, with strong problem-solving abilities. Experienced in IoT development, MERN applications, and system optimization. Passionate about building impactful solutions and continuously learning.",
+    "github": "https://github.com/amrit-tyagi"
+  },
+  "education": [
+    {
+      "degree": "B.E. Computer Science & Engineering (IoT)",
+      "institution": "Chandigarh University",
+      "years": "2022–2026",
+      "description": "Specializing in Internet of Things with focus on embedded systems and cloud integration."
+    },
+    {
+      "degree": "Senior Secondary",
+      "institution": "St. Karen's High School",
+      "years": "2019–2021",
+      "description": "Completed with focus on Science and Mathematics."
+    }
+  ],
+  "skills": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 85
+      },
+      {
+        "name": "C++",
+        "level": 75
+      },
+      {
+        "name": "MySQL",
+        "level": 80
+      },
+      {
+        "name": "MERN Stack",
+        "level": 70
+      },
+      {
+        "name": "IoT Development",
+        "level": 85
+      },
+      {
+        "name": "MS Office",
+        "level": 90
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "soft": [
+      "Team Collaboration",
+      "Time Management",
+      "Design Thinking",
+      "Problem Solving"
+    ]
+  },
+  "projects": [
+    {
+      "id": "chat-app",
+      "title": "Chat Application",
+      "year": "2024",
+      "category": "MERN Stack",
+      "description": "Built real-time chat app with authentication, Socket.io messaging, responsive UI, scalable backend & DB optimization.",
+      "fullDescription": "A full-featured real-time chat application built using the MERN stack. Features include user authentication with JWT, real-time messaging using Socket.io, responsive design for all devices, and optimized database queries for scalability.",
+      "techStack": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Socket.io",
+        "JWT"
+      ],
+      "features": [
+        "Real-time messaging with Socket.io",
+        "User authentication and authorization",
+        "Responsive UI design",
+        "Database optimization for scalability"
+      ],
+      "image": "/placeholder.svg",
+      "github": "#",
+      "live": "#"
+    },
+    {
+      "id": "speed-detector",
+      "title": "Speed Detector System",
+      "year": "2023",
+      "category": "IoT (Arduino)",
+      "description": "Arduino-based speed detection with real-time display, accurate sensor readings, and data logging for analysis.",
+      "fullDescription": "An IoT-based speed detection system using Arduino microcontroller. The system uses ultrasonic sensors to measure the speed of passing objects with high accuracy, displays results in real-time on an LCD, and logs data for further analysis.",
+      "techStack": [
+        "Arduino",
+        "C++",
+        "Ultrasonic Sensors",
+        "LCD Display",
+        "Serial Communication"
+      ],
+      "features": [
+        "Real-time speed calculation",
+        "LCD display integration",
+        "Accurate sensor readings",
+        "Data logging for analysis"
+      ],
+      "image": "/placeholder.svg",
+      "github": "#",
+      "live": "#"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Introduction to Internet of Things",
+      "issuer": "NPTEL",
+      "icon": "cpu"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure 2024",
+      "issuer": "Generative AI",
+      "icon": "cloud"
+    },
+    {
+      "title": "Python (Basic)",
+      "issuer": "HackerRank",
+      "icon": "code"
+    }
+  ]
+}
